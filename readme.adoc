@@ -2,13 +2,13 @@
 
 == Features
 
-- Targets http://www.jboss.org/products/eap[Red Hat JBoss Enterprise Application Platform 6.2]
-- Red Hat/JBoss maven repos
-- JUnit for unit tests
-- http://arquillian.org[Arquillian] for in-container tests
-- Code coverage for in-container tests with JaCoCo
-- http://www.sonarqube.org[Sonar] reporting with code coverage
-- JavaEE APIs: CDI, JAX-RS, EJB
+* Targets http://www.jboss.org/products/eap[Red Hat JBoss Enterprise Application Platform 6.2]
+* Red Hat/JBoss maven repos
+* JUnit for unit tests
+* http://arquillian.org[Arquillian] for in-container tests
+* Code coverage for in-container tests with JaCoCo
+* http://www.sonarqube.org[Sonar] reporting with code coverage
+* JavaEE APIs: CDI, JAX-RS, EJB
 
 == Getting started
 
@@ -38,4 +38,4 @@ Make sure to replace settings with your own.
 
 == Resources
 
-- http://www.packtpub.com/arquillian-testing-guide/book[Arquillian Testing Guide Book]
+* http://www.packtpub.com/arquillian-testing-guide/book[Arquillian Testing Guide Book]
